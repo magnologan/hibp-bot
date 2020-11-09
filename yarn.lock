@@ -187,9 +187,10 @@
     babel-runtime "^6.23.0"
     envify "^3.4.1"
 
-"@slack/client@^3.14.1":
-  version "3.14.1"
-  resolved "https://registry.yarnpkg.com/@slack/client/-/client-3.14.1.tgz#be3ff80ca2a4bd881b72ac9c2c3dd5bb7276b2a5"
+"@slack/client@^3.16.0":
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/@slack/client/-/client-3.16.0.tgz#a9963a6a24d41e74dc0f7ff09d9f1b2a01b97bfd"
+  integrity sha512-CWr7a3rTVrN5Vs8GYReRAvTourbXHOqB1zglcskj05ICH4GZL5BOAza2ARai+qc3Nz0nY08Bozi1x0014KOqlg==
   dependencies:
     async "^1.5.0"
     bluebird "^3.3.3"
